@@ -80,6 +80,8 @@ FunctionsToExport = 'Add-MtTestResultDetail',
     'Clear-MtDnsCache', 'Clear-MtExoCache', 'Clear-MtGraphCache',
     'Compare-MtTestResult',
     'Connect-Maester',
+    'New-MaesterAppRegistration', # New
+    'Grant-MaesterAppConsent',    # New
     'Convert-MtResultsToFlatObject', 'ConvertFrom-MailAuthenticationRecordDkim',
     'ConvertFrom-MailAuthenticationRecordDmarc', 'ConvertFrom-MailAuthenticationRecordMx',
     'ConvertFrom-MailAuthenticationRecordSpf',
